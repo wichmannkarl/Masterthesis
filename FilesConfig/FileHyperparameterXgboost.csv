@@ -1,0 +1,11 @@
+LineNumber,Scenario,XGB__colsample_bytree,XGB__eta,XGB__gamma,XGB__max_depth,XGB__min_child_weight,XGB__n_estimators,XGB__subsample
+1,Scenario01,0.7,0.1,0.3,7,1,200,0.5
+2,Scenario02,0.5,0.1,0.3,9,3,200,0.7
+3,Scenario03,1.0,0.1,0,9,1,200,0.7
+4,Scenario04,0.5,0.1,0,9,5,100,0.7
+5,Scenario05,0.5,0.1,0.1,9,1,200,0.7
+6,Scenario06,0.5,0.1,0.1,9,1,200,0.7
+7,Scenario07,0.5,0.3,0,9,1,200,0.7
+8,Scenario08,0.7,0.1,0,9,1,200,0.7
+9,Scenario09,0.7,0.1,0,9,1,200,0.7
+10,Scenario10,0.7,0.3,0,9,1,200,1.0

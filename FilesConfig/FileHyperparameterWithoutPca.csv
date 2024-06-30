@@ -1,0 +1,11 @@
+LineNumber,Scenario,RF__max_depth,RF__min_samples_leaf,RF__min_samples_split,RF__n_estimators,LR__C,LR__max_iter,LR__penalty,LR__solver,KNN__metric,KNN__n_neighbors,KNN__weights,SVM__C,SVM__gamma,SVM__kernel,GBC__max_depth,GBC__min_samples_leaf,GBC__min_samples_split
+1,Scenario01,6,5,3,200,1,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,4,6
+2,Scenario02,6,3,5,250,1,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,5,5
+3,Scenario03,6,2,4,250,0.5,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,4,6
+4,Scenario04,6,6,3,250,0.5,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,5,2
+5,Scenario05,6,2,3,250,0.5,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,6,5
+6,Scenario06,6,2,3,200,1.0,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,6,3
+7,Scenario07,6,1,5,250,0.5,2500,l2,liblinear,manhattan,4,distance,6,auto,rbf,6,4,5
+8,Scenario08,6,2,5,150,1.0,2500,l1,liblinear,manhattan,4,distance,6,auto,rbf,6,2,6
+9,Scenario09,6,1,2,200,0.1,2500,l2,liblinear,manhattan,6,distance,6,auto,rbf,6,5,4
+10,Scenario10,6,4,6,200,1.0,2500,l1,liblinear,manhattan,6,distance,6,auto,rbf,6,4,5

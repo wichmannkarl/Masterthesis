@@ -1,0 +1,74 @@
+LineNumber,FilenameOld,FilenameNew
+1,Person-1 - #83 Gehen langsam LLOS.csv,Person-1_Gehen_langsam_LLOS.csv
+2,Person-1 - #84 Gehen normal LLOS.csv,Person-1_Gehen_normal_LLOS.csv
+3,Person-1 - #85 Gehen schnell LLOS.csv,Person-1_Gehen_schnell_LLOS.csv
+4,Person-1 - #86 Gehen QLOS #1.csv,Person-1_Gehen_QLOS_#1.csv
+5,Person-1 - #87 Gehen QLOS #2.csv,Person-1_Gehen_QLOS_#2.csv
+6,Person-1 - #88 Gehen QLOS #3.csv,Person-1_Gehen_QLOS_#3.csv
+7,Person-1 - #89 Hampelfrau QLOS #1.csv,Person-1_Hampelfrau_QLOS_#1.csv
+8,Person-1 - #90 Stehen QLOS #1.csv,Person-1_Stehen_QLOS_#1.csv
+9,Person-1 - #91 Hampelfrau LLOS #1.csv,Person-1_Hampelfrau_LLOS_#1.csv
+10,Person-1 - #92 Stehen LLOS #1.csv,Person-1_Stehen_LLOS_#1.csv
+11,Person-1 - #93 Hampelfrau QLOS #2.csv,Person-1_Hampelfrau_QLOS_#2.csv
+12,Person-1 - #94 Stehen QLOS #2.csv,Person-1_Stehen_QLOS_#2.csv
+13,Person-1 - #95 Hampelfrau LLOS #2.csv,Person-1_Hampelfrau_LLOS_#2.csv
+14,Person-1 - #96 Stehen LLOS #2.csv,Person-1_Stehen_LLOS_#2.csv
+15,Person-1 - #97 Hampelfrau QLOS #3.csv,Person-1_Hampelfrau_QLOS_#3.csv
+16,Person-1 - #98 Stehen QLOS #3.csv,Person-1_Stehen_QLOS_#3.csv
+17,Person-1 - #99 Hampelfrau LLOS #3.csv,Person-1_Hampelfrau_LLOS_#3.csv
+18,Person-1 - #100 Stehen LLOS #3.csv,Person-1_Stehen_LLOS_#3.csv
+19,Person-2 - #148 Gehen langsam LLOS.csv,Person-2_Gehen_langsam_LLOS.csv
+20,Person-2 - #149 Gehen normal LLOS.csv,Person-2_Gehen_normal_LLOS.csv
+21,Person-2 - #150 Gehen schnell LLOS.csv,Person-2_Gehen_schnell_LLOS.csv
+22,Person-3 - #141 Gehen langsam LLOS.csv,Person-3_Gehen_langsam_LLOS.csv
+23,Person-3 - #142 Gehen normal LLOS.csv,Person-3_Gehen_normal_LLOS.csv
+24,Person-3 - #144 Gehen schnell LLOS.csv,Person-3_Gehen_schnell_LLOS.csv
+25,Person-4 - #145 Gehen langsam LLOS.csv,Person-4_Gehen_langsam_LLOS.csv
+26,Person-4 - #146 Gehen normal LLOS.csv,Person-4_Gehen_normal_LLOS.csv
+27,Person-4 - #147 Gehen schnell LLOS.csv,Person-4_Gehen_schnell_LLOS.csv
+28,Person-5 - #101 Gehen langsam LLOS.csv,Person-5_Gehen_langsam_LLOS.csv
+29,Person-5 - #102 Gehen normal LLOS.csv,Person-5_Gehen_normal_LLOS.csv
+30,Person-5 - #103 Gehen schnell LLOS.csv,Person-5_Gehen_schnell_LLOS.csv
+31,Person-5 - #104 Gehen QLOS #1.csv,Person-5_Gehen_QLOS_#1.csv
+32,Person-5 - #105 Gehen QLOS #2.csv,Person-5_Gehen_QLOS_#2.csv
+33,Person-5 - #106 Gehen QLOS #3.csv,Person-5_Gehen_QLOS_#3.csv
+34,Person-5 - #107 Hampelmann QLOS #1.csv,Person-5_Hampelmann_QLOS_#1.csv
+35,Person-5 - #108 Stehen QLOS #1.csv,Person-5_Stehen_QLOS_#1.csv
+36,Person-5 - #109 Hampelmann LLOS #1.csv,Person-5_Hampelmann_LLOS_#1.csv
+37,Person-5 - #110 Stehen LLOS #1.csv,Person-5_Stehen_LLOS_#1.csv
+38,Person-5 - #111 Hampelmann QLOS #2.csv,Person-5_Hampelmann_QLOS_#2.csv
+39,Person-5 - #112 Stehen QLOS #2.csv,Person-5_Stehen_QLOS_#2.csv
+40,Person-5 - #113 Hampelmann LLOS #2.csv,Person-5_Hampelmann_LLOS_#2.csv
+41,Person-5 - #114 Stehen LLOS #2.csv,Person-5_Stehen_LLOS_#2.csv
+42,Person-5 - #115 Hampelmann QLOS #3.csv,Person-5_Hampelmann_QLOS_#3.csv
+43,Person-5 - #116 Stehen QLOS #3.csv,Person-5_Stehen_QLOS_#3.csv
+44,Person-5 - #117 Hampelmann LLOS #3.csv,Person-5_Hampelmann_LLOS_#3.csv
+45,Person-5 - #118 Stehen LLOS #3.csv,Person-5_Stehen_LLOS_#3.csv
+46,Person-6 - #120 Gehen langsam.csv,Person-6_Gehen_langsam_LLOS.csv
+47,Person-6 - #121 Gehen normal.csv,Person-6_Gehen_normal_LLOS.csv
+48,Person-6 - #122 Gehen schnell.csv,Person-6_Gehen_schnell_LLOS.csv
+49,Person-6 - #123 Gehen quer #1.csv,Person-6_Gehen_QLOS_#1.csv
+50,Person-6 - #124 Gehen quer #2.csv,Person-6_Gehen_QLOS_#2.csv
+51,Person-6 - #125 Gehen quer #3.csv,Person-6_Gehen_QLOS_#3.csv
+52,Person-6 - #126 Hampelmann quer #1.csv,Person-6_Hampelmann_QLOS_#1.csv
+53,Person-6 - #127 Stehen quer #1.csv,Person-6_Stehen_QLOS_#1.csv
+54,Person-6 - #128 Hampelmann längs #1.csv,Person-6_Hampelmann_LLOS_#1.csv
+55,Person-6 - #129 Stehen längs #1.csv,Person-6_Stehen_LLOS_#1.csv
+56,Person-6 - #130 Hampelmann quer #2.csv,Person-6_Hampelmann_QLOS_#2.csv
+57,Person-6 - #131 Stehen quer #2.csv,Person-6_Stehen_QLOS_#2.csv
+58,Person-6 - #132 Hampelmann längs #2.csv,Person-6_Hampelmann_LLOS_#2.csv
+59,Person-6 - #133 Stehen längs #2.csv,Person-6_Stehen_LLOS_#2.csv
+60,Person-6 - #134 Hampelmann quer #3.csv,Person-6_Hampelmann_QLOS_#3.csv
+61,Person-6 - #135 Stehen quer #3.csv,Person-6_Stehen_QLOS_#3.csv
+62,Person-6 - #136 Hampelmann längs #3.csv,Person-6_Hampelmann_LLOS_#3.csv
+63,Person-6 - #137 Stehen längs #3.csv,Person-6_Stehen_LLOS_#3.csv
+64,Person-7 - #138 Gehen langsam LLOS.csv,Person-7_Gehen_langsam_LLOS.csv
+65,Person-7 - #139 Gehen normal LLOS.csv,Person-7_Gehen_normal_LLOS.csv
+66,Person-7 - #140 Gehen schnell LLOS.csv,Person-7_Gehen_schnell_LLOS.csv
+67,Person-8 - #151 Gehen langsam.csv,Personen-8_Gehen_langsam_LLOS.csv
+68,Person-8 - #152 Gehen zwei Personen normal.csv,Personen-8_Gehen_normal_LLOS.csv
+69,Person-8 - #153 Gehen zwei Personen schnell.csv,Personen-8_Gehen_schnell_LLOS.csv
+70,#119 Raum leer.csv,Raum_leer.csv
+71,Person-5 - #154 Alle Bewegungen einer Person bei #1.csv,Person-5_AlleBewegungen_#1.csv
+72,Person-5 - #155 Alle Bewegungen einer Person bei #2.csv,Person-5_AlleBewegungen_#2.csv
+73,Person-5 - #156 Alle Bewegungen einer Person bei #3.csv,Person-5_AlleBewegungen_#3.csv

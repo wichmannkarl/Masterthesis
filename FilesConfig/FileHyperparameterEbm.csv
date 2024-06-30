@@ -1,0 +1,11 @@
+LineNumber,Scenario,EBM__learning_rate,EBM__max_bins,EBM__max_interaction_bins,EBM__max_rounds,EBM__min_samples_leaf,EBM__outer_bags,EBM__validation_size
+1,Scenario01,0.02,256,64,5000,3,50,0.1
+2,Scenario02,0.02,512,32,5000,3,50,0.1
+3,Scenario03,0.02,1024,16,5000,3,75,0.15
+4,Scenario04,0.01,512,32,5000,3,14,0.1
+5,Scenario05,0.02,1024,32,5000,3,25,0.1
+6,Scenario06,0.02,256,16,5000,2,50,0.1
+7,Scenario07,0.02,512,32,5000,3,50,0.1
+8,Scenario08,0.02,512,32,5000,3,100,0.1
+9,Scenario09,0.02,512,32,5000,3,25, 0.15
+10,Scenario10,0.02,256,32,5000,2,50,0.1

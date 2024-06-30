@@ -1,0 +1,6 @@
+LineNumber,Algorithm,DisplayNameAlgorithm
+1,RandomForest,Random Forest
+2,LogisticRegession,Logistic Regession
+3,KNeighborsClassifier,K-Nearest Neighbors
+4,SVM,Support Vector Machine
+5,GradientBoosting,Gradient Boosting
